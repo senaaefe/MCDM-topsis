@@ -1,0 +1,28 @@
+C:\Users\Sena\source\repos\yapayzeka1\yapayzeka1\bin\Debug\yapayzeka1.exe.config
+C:\Users\Sena\source\repos\yapayzeka1\yapayzeka1\bin\Debug\yapayzeka1.exe
+C:\Users\Sena\source\repos\yapayzeka1\yapayzeka1\bin\Debug\yapayzeka1.pdb
+C:\Users\Sena\source\repos\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.csprojAssemblyReference.cache
+C:\Users\Sena\source\repos\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.Form1.resources
+C:\Users\Sena\source\repos\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.Properties.Resources.resources
+C:\Users\Sena\source\repos\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.csproj.GenerateResource.cache
+C:\Users\Sena\source\repos\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.exe
+C:\Users\Sena\source\repos\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.pdb
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.exe
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.pdb
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.csprojAssemblyReference.cache
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.Form1.resources
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.Properties.Resources.resources
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.csproj.GenerateResource.cache
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\obj\Debug\yapayzeka1.csproj.CoreCompileInputs.cache
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\bin\Debug\yapayzeka1.exe.config
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\bin\Debug\yapayzeka1.exe
+C:\Users\Kutay\Desktop\yapayzeka1\yapayzeka1\yapayzeka1\bin\Debug\yapayzeka1.pdb
+C:\Users\Sena\Desktop\Topsis application\yapayzeka1\bin\Debug\yapayzeka1.exe.config
+C:\Users\Sena\Desktop\Topsis application\yapayzeka1\bin\Debug\yapayzeka1.exe
+C:\Users\Sena\Desktop\Topsis application\yapayzeka1\bin\Debug\yapayzeka1.pdb
+C:\Users\Sena\Desktop\Topsis application\yapayzeka1\obj\Debug\yapayzeka1.csprojAssemblyReference.cache
+C:\Users\Sena\Desktop\Topsis application\yapayzeka1\obj\Debug\yapayzeka1.Form1.resources
+C:\Users\Sena\Desktop\Topsis application\yapayzeka1\obj\Debug\yapayzeka1.Properties.Resources.resources
+C:\Users\Sena\Desktop\Topsis application\yapayzeka1\obj\Debug\yapayzeka1.csproj.GenerateResource.cache
+C:\Users\Sena\Desktop\Topsis application\yapayzeka1\obj\Debug\yapayzeka1.exe
+C:\Users\Sena\Desktop\Topsis application\yapayzeka1\obj\Debug\yapayzeka1.pdb
